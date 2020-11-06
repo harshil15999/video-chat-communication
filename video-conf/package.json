@@ -1,0 +1,20 @@
+{
+  "name": "video-conf",
+  "version": "1.0.0",
+  "description": "This is a video conferencing app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "harshil shah",
+  "license": "MIT",
+  "dependencies": {
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "peer": "^0.5.3",
+    "peerjs": "^1.3.1",
+    "socket.io": "^2.3.0",
+    "socket.io-client": "^2.3.1",
+    "uuid": "^8.3.1"
+  }
+}
